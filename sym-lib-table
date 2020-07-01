@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom_library)(type Legacy)(uri ${KIPRJMOD}/custom_library.lib)(options "")(descr ""))
+  (lib (name QSPIRadiationBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/QSPIRadiationBoard-rescue.lib)(options "")(descr ""))
+)
